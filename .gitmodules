@@ -2,51 +2,64 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "bindr"]
 	path = bindr
 	url = https://github.com/krlmlr/bindr
 	shallow = true
+	branch = HEAD
 [submodule "bindrcpp"]
 	path = bindrcpp
 	url = https://github.com/krlmlr/bindrcpp
 	shallow = true
+	branch = HEAD
 [submodule "dm"]
 	path = dm
 	url = https://github.com/krlmlr/dm
 	shallow = true
+	branch = HEAD
 [submodule "enc"]
 	path = enc
 	url = https://github.com/krlmlr/enc
 	shallow = true
+	branch = HEAD
 [submodule "here"]
 	path = here
 	url = https://github.com/krlmlr/here
 	shallow = true
+	branch = HEAD
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
 	shallow = true
+	branch = HEAD
 [submodule "MakefileR"]
 	path = MakefileR
 	url = https://github.com/krlmlr/makefiler
 	shallow = true
+	branch = HEAD
 [submodule "mockr"]
 	path = mockr
 	url = https://github.com/krlmlr/mockr
 	shallow = true
+	branch = HEAD
 [submodule "plogr"]
 	path = plogr
 	url = https://github.com/krlmlr/plogr
 	shallow = true
+	branch = HEAD
 [submodule "rprojroot"]
 	path = rprojroot
 	url = https://github.com/krlmlr/rprojroot
 	shallow = true
+	branch = HEAD
 [submodule "wrswoR"]
 	path = wrswoR
 	url = https://github.com/krlmlr/wrswor
 	shallow = true
+	branch = HEAD
 [submodule "wrswoR.benchmark"]
 	path = wrswoR.benchmark
 	url = https://github.com/krlmlr/wrswor.benchmark
 	shallow = true
+	branch = HEAD
