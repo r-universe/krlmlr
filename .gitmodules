@@ -19,10 +19,6 @@
 	path = enc
 	url = https://github.com/krlmlr/enc
 	shallow = true
-[submodule "here"]
-	path = here
-	url = https://github.com/krlmlr/here
-	shallow = true
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
@@ -38,10 +34,6 @@
 [submodule "plogr"]
 	path = plogr
 	url = https://github.com/krlmlr/plogr
-	shallow = true
-[submodule "rprojroot"]
-	path = rprojroot
-	url = https://github.com/krlmlr/rprojroot
 	shallow = true
 [submodule "wrswoR"]
 	path = wrswoR
