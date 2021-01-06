@@ -43,3 +43,7 @@
 	path = wrswoR.benchmark
 	url = https://github.com/krlmlr/wrswor.benchmark
 	shallow = true
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+	shallow = true
