@@ -48,8 +48,3 @@
 	url = https://github.com/krlmlr/wrswor
 	shallow = true
 	registered = true
-[submodule "wrswoR.benchmark"]
-	path = wrswoR.benchmark
-	url = https://github.com/krlmlr/wrswor.benchmark
-	shallow = true
-	registered = true
