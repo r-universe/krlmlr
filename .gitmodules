@@ -13,11 +13,6 @@
 	url = https://github.com/krlmlr/bindrcpp
 	shallow = true
 	registered = true
-[submodule "dm"]
-	path = dm
-	url = https://github.com/krlmlr/dm
-	shallow = true
-	registered = true
 [submodule "enc"]
 	path = enc
 	url = https://github.com/krlmlr/enc
