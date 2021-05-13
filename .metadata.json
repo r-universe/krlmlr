@@ -1,0 +1,34 @@
+[
+  {
+    "package": "bindr",
+    "oncran": true
+  },
+  {
+    "package": "bindrcpp",
+    "oncran": true
+  },
+  {
+    "package": "enc",
+    "oncran": true
+  },
+  {
+    "package": "kimisc",
+    "oncran": true
+  },
+  {
+    "package": "MakefileR",
+    "oncran": true
+  },
+  {
+    "package": "mockr",
+    "oncran": true
+  },
+  {
+    "package": "plogr",
+    "oncran": true
+  },
+  {
+    "package": "wrswoR",
+    "oncran": true
+  }
+]

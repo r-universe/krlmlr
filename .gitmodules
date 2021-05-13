@@ -8,46 +8,38 @@
 	url = https://github.com/krlmlr/bindr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "bindrcpp"]
 	path = bindrcpp
 	url = https://github.com/krlmlr/bindrcpp
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "enc"]
 	path = enc
 	url = https://github.com/krlmlr/enc
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "MakefileR"]
 	path = MakefileR
 	url = https://github.com/krlmlr/makefiler
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mockr"]
 	path = mockr
 	url = https://github.com/krlmlr/mockr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "plogr"]
 	path = plogr
 	url = https://github.com/krlmlr/plogr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "wrswoR"]
 	path = wrswoR
 	url = https://github.com/krlmlr/wrswor
 	shallow = true
 	registered = true
-	oncran = true
