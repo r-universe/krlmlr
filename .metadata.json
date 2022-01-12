@@ -12,7 +12,15 @@
     "oncran": true
   },
   {
+    "package": "kimisc",
+    "oncran": true
+  },
+  {
     "package": "MakefileR",
+    "oncran": true
+  },
+  {
+    "package": "mockr",
     "oncran": true
   },
   {
