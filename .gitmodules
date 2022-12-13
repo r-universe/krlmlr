@@ -1,45 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/krlmlr/universe
 	shallow = true
 	branch = HEAD
-[submodule "bindr"]
-	path = bindr
-	url = https://github.com/krlmlr/bindr
+[submodule "igraph"]
+	path = igraph
+	url = https://github.com/igraph/rigraph
 	shallow = true
+	branch = master
 	registered = true
-[submodule "bindrcpp"]
-	path = bindrcpp
-	url = https://github.com/krlmlr/bindrcpp
-	shallow = true
-	registered = true
-[submodule "enc"]
-	path = enc
-	url = https://github.com/krlmlr/enc
-	shallow = true
-	registered = true
-[submodule "kimisc"]
-	path = kimisc
-	url = https://github.com/krlmlr/kimisc
-	shallow = true
-	registered = true
-[submodule "MakefileR"]
-	path = MakefileR
-	url = https://github.com/krlmlr/makefiler
-	shallow = true
-	registered = true
-[submodule "mockr"]
-	path = mockr
-	url = https://github.com/krlmlr/mockr
-	shallow = true
-	registered = true
-[submodule "plogr"]
-	path = plogr
-	url = https://github.com/krlmlr/plogr
-	shallow = true
-	registered = true
-[submodule "wrswoR"]
-	path = wrswoR
-	url = https://github.com/krlmlr/wrswor
+[submodule "igraphdata"]
+	path = igraphdata
+	url = https://github.com/igraph/igraphdata
 	shallow = true
 	registered = true
