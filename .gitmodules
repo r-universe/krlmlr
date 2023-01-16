@@ -7,7 +7,6 @@
 	path = igraph
 	url = https://github.com/igraph/rigraph
 	shallow = true
-	branch = master
 	registered = true
 [submodule "igraphdata"]
 	path = igraphdata
