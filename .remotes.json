@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ape",
+    "url": "https://github.com/emmanuelparadis/ape",
+    "via": ["igraph"],
+    "from": "igraph"
+  }
+]
