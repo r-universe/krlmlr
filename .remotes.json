@@ -1,0 +1,8 @@
+[
+  {
+    "package": "igraph",
+    "url": "https://github.com/igraph/rigraph",
+    "via": ["igraphdata"],
+    "from": "igraphdata"
+  }
+]
