@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/krlmlr/universe
-	shallow = true
 	branch = HEAD
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
-	shallow = true
-	registered = true
 [submodule "igraphdata"]
 	path = igraphdata
 	url = https://github.com/igraph/igraphdata
-	shallow = true
-	registered = true
