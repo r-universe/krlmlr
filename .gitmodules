@@ -2,9 +2,27 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "igraph"]
-	path = igraph
-	url = https://github.com/igraph/rigraph
-[submodule "igraphdata"]
-	path = igraphdata
-	url = https://github.com/igraph/igraphdata
+[submodule "MakefileR"]
+	path = MakefileR
+	url = https://github.com/krlmlr/makefiler
+[submodule "bindr"]
+	path = bindr
+	url = https://github.com/krlmlr/bindr
+[submodule "bindrcpp"]
+	path = bindrcpp
+	url = https://github.com/krlmlr/bindrcpp
+[submodule "enc"]
+	path = enc
+	url = https://github.com/krlmlr/enc
+[submodule "kimisc"]
+	path = kimisc
+	url = https://github.com/krlmlr/kimisc
+[submodule "mockr"]
+	path = mockr
+	url = https://github.com/krlmlr/mockr
+[submodule "plogr"]
+	path = plogr
+	url = https://github.com/krlmlr/plogr
+[submodule "wrswoR"]
+	path = wrswoR
+	url = https://github.com/krlmlr/wrswor
