@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/krlmlr/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "igraph"]
 	path = igraph
