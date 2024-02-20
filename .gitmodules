@@ -11,9 +11,6 @@
 [submodule "bindrcpp"]
 	path = bindrcpp
 	url = https://github.com/krlmlr/bindrcpp
-[submodule "enc"]
-	path = enc
-	url = https://github.com/krlmlr/enc
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
