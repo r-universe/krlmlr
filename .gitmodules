@@ -20,6 +20,9 @@
 [submodule "plogr"]
 	path = plogr
 	url = https://github.com/krlmlr/plogr
+[submodule "utf8"]
+	path = utf8
+	url = https://github.com/krlmlr/r-utf8
 [submodule "wrswoR"]
 	path = wrswoR
 	url = https://github.com/krlmlr/wrswor
