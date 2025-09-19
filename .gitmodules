@@ -1,28 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/krlmlr/krlmlr.r-universe.dev
 	branch = HEAD
-[submodule "MakefileR"]
-	path = MakefileR
-	url = https://github.com/krlmlr/makefiler
-[submodule "bindr"]
-	path = bindr
-	url = https://github.com/krlmlr/bindr
-[submodule "bindrcpp"]
-	path = bindrcpp
-	url = https://github.com/krlmlr/bindrcpp
-[submodule "kimisc"]
-	path = kimisc
-	url = https://github.com/krlmlr/kimisc
-[submodule "mockr"]
-	path = mockr
-	url = https://github.com/krlmlr/mockr
-[submodule "plogr"]
-	path = plogr
-	url = https://github.com/krlmlr/plogr
-[submodule "utf8"]
-	path = utf8
-	url = https://github.com/krlmlr/utf8
-[submodule "wrswoR"]
-	path = wrswoR
-	url = https://github.com/krlmlr/wrswor
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/krlmlr/duckdb-r
