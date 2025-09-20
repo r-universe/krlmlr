@@ -2,6 +2,87 @@
 	path = .registry
 	url = https://github.com/krlmlr/krlmlr.r-universe.dev
 	branch = HEAD
+[submodule "R6"]
+	path = R6
+	url = https://github.com/r-lib/R6
+[submodule "brio"]
+	path = brio
+	url = https://github.com/r-lib/brio
+[submodule "callr"]
+	path = callr
+	url = https://github.com/r-lib/callr
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+[submodule "crayon"]
+	path = crayon
+	url = https://github.com/r-lib/crayon
+[submodule "desc"]
+	path = desc
+	url = https://github.com/r-lib/desc
+[submodule "diffobj"]
+	path = diffobj
+	url = https://github.com/brodieG/diffobj
+[submodule "digest"]
+	path = digest
+	url = https://github.com/eddelbuettel/digest
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/krlmlr/duckdb-r
+[submodule "evaluate"]
+	path = evaluate
+	url = https://github.com/r-lib/evaluate
+[submodule "fs"]
+	path = fs
+	url = https://github.com/r-lib/fs
+[submodule "generics"]
+	path = generics
+	url = https://github.com/r-lib/generics
+[submodule "glue"]
+	path = glue
+	url = https://github.com/tidyverse/glue
+[submodule "jsonlite"]
+	path = jsonlite
+	url = https://github.com/jeroen/jsonlite
+[submodule "lifecycle"]
+	path = lifecycle
+	url = https://github.com/r-lib/lifecycle
+[submodule "magrittr"]
+	path = magrittr
+	url = https://github.com/tidyverse/magrittr
+[submodule "pkgbuild"]
+	path = pkgbuild
+	url = https://github.com/r-lib/pkgbuild
+[submodule "pkgload"]
+	path = pkgload
+	url = https://github.com/r-lib/pkgload
+[submodule "praise"]
+	path = praise
+	url = https://github.com/gaborcsardi/praise
+[submodule "processx"]
+	path = processx
+	url = https://github.com/r-lib/processx
+[submodule "ps"]
+	path = ps
+	url = https://github.com/r-lib/ps
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+[submodule "rprojroot"]
+	path = rprojroot
+	url = https://github.com/r-lib/rprojroot
+[submodule "timechange"]
+	path = timechange
+	url = https://github.com/vspinu/timechange
+[submodule "utf8"]
+	path = utf8
+	url = https://github.com/krlmlr/utf8
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+[submodule "waldo"]
+	path = waldo
+	url = https://github.com/r-lib/waldo
+[submodule "withr"]
+	path = withr
+	url = https://github.com/r-lib/withr
