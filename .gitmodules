@@ -2,21 +2,66 @@
 	path = .registry
 	url = https://github.com/krlmlr/krlmlr.r-universe.dev
 	branch = HEAD
+[submodule "DBI"]
+	path = DBI
+	url = https://github.com/r-dbi/DBI
+[submodule "Matrix"]
+	path = Matrix
+	url = https://github.com/cran/Matrix
 [submodule "R6"]
 	path = R6
 	url = https://github.com/r-lib/R6
+[submodule "RColorBrewer"]
+	path = RColorBrewer
+	url = https://github.com/cran/RColorBrewer
+[submodule "S7"]
+	path = S7
+	url = https://github.com/RConsortium/S7
+[submodule "askpass"]
+	path = askpass
+	url = https://github.com/r-lib/askpass
+[submodule "assertthat"]
+	path = assertthat
+	url = https://github.com/cran/assertthat
+[submodule "base64enc"]
+	path = base64enc
+	url = https://github.com/cran/base64enc
+[submodule "bit"]
+	path = bit
+	url = https://github.com/r-lib/bit
+[submodule "bit64"]
+	path = bit64
+	url = https://github.com/r-lib/bit64
+[submodule "blob"]
+	path = blob
+	url = https://github.com/tidyverse/blob
 [submodule "brio"]
 	path = brio
 	url = https://github.com/r-lib/brio
+[submodule "bslib"]
+	path = bslib
+	url = https://github.com/rstudio/bslib
+[submodule "cachem"]
+	path = cachem
+	url = https://github.com/r-lib/cachem
 [submodule "callr"]
 	path = callr
 	url = https://github.com/r-lib/callr
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
+[submodule "clipr"]
+	path = clipr
+	url = https://github.com/mdlincoln/clipr
 [submodule "crayon"]
 	path = crayon
 	url = https://github.com/r-lib/crayon
+[submodule "credentials"]
+	path = credentials
+	url = https://github.com/r-lib/credentials
+[submodule "curl"]
+	path = curl
+	url = https://github.com/jeroen/curl
 [submodule "desc"]
 	path = desc
 	url = https://github.com/r-lib/desc
@@ -26,33 +71,114 @@
 [submodule "digest"]
 	path = digest
 	url = https://github.com/eddelbuettel/digest
-[submodule "duckdb"]
-	path = duckdb
-	url = https://github.com/krlmlr/duckdb-r
+[submodule "dplyr"]
+	path = dplyr
+	url = https://github.com/tidyverse/dplyr
 [submodule "evaluate"]
 	path = evaluate
 	url = https://github.com/r-lib/evaluate
+[submodule "farver"]
+	path = farver
+	url = https://github.com/thomasp85/farver
+[submodule "fastmap"]
+	path = fastmap
+	url = https://github.com/r-lib/fastmap
+[submodule "fontawesome"]
+	path = fontawesome
+	url = https://github.com/rstudio/fontawesome
 [submodule "fs"]
 	path = fs
 	url = https://github.com/r-lib/fs
 [submodule "generics"]
 	path = generics
 	url = https://github.com/r-lib/generics
+[submodule "gitcreds"]
+	path = gitcreds
+	url = https://github.com/r-lib/gitcreds
 [submodule "glue"]
 	path = glue
 	url = https://github.com/tidyverse/glue
+[submodule "gtable"]
+	path = gtable
+	url = https://github.com/r-lib/gtable
+[submodule "highr"]
+	path = highr
+	url = https://github.com/yihui/highr
+[submodule "hms"]
+	path = hms
+	url = https://github.com/tidyverse/hms
+[submodule "htmltools"]
+	path = htmltools
+	url = https://github.com/rstudio/htmltools
+[submodule "htmlwidgets"]
+	path = htmlwidgets
+	url = https://github.com/ramnathv/htmlwidgets
+[submodule "httr"]
+	path = httr
+	url = https://github.com/r-lib/httr
+[submodule "httr2"]
+	path = httr2
+	url = https://github.com/r-lib/httr2
+[submodule "igraph"]
+	path = igraph
+	url = https://github.com/igraph/rigraph
+[submodule "ini"]
+	path = ini
+	url = https://github.com/dvdscripter/ini
+[submodule "isoband"]
+	path = isoband
+	url = https://github.com/r-lib/isoband
+[submodule "jquerylib"]
+	path = jquerylib
+	url = https://github.com/cran/jquerylib
 [submodule "jsonlite"]
 	path = jsonlite
 	url = https://github.com/jeroen/jsonlite
+[submodule "knitr"]
+	path = knitr
+	url = https://github.com/yihui/knitr
+[submodule "labeling"]
+	path = labeling
+	url = https://github.com/cran/labeling
+[submodule "lattice"]
+	path = lattice
+	url = https://github.com/deepayan/lattice
+[submodule "lazyeval"]
+	path = lazyeval
+	url = https://github.com/cran/lazyeval
 [submodule "lifecycle"]
 	path = lifecycle
 	url = https://github.com/r-lib/lifecycle
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
+[submodule "memoise"]
+	path = memoise
+	url = https://github.com/r-lib/memoise
+[submodule "mime"]
+	path = mime
+	url = https://github.com/yihui/mime
+[submodule "nanoarrow"]
+	path = nanoarrow
+	url = https://github.com/apache/arrow-nanoarrow
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/jeroen/openssl
+[submodule "palmerpenguins"]
+	path = palmerpenguins
+	url = https://github.com/allisonhorst/palmerpenguins
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
 [submodule "pkgbuild"]
 	path = pkgbuild
 	url = https://github.com/r-lib/pkgbuild
+[submodule "pkgconfig"]
+	path = pkgconfig
+	url = https://github.com/r-lib/pkgconfig
 [submodule "pkgload"]
 	path = pkgload
 	url = https://github.com/r-lib/pkgload
@@ -62,27 +188,105 @@
 [submodule "processx"]
 	path = processx
 	url = https://github.com/r-lib/processx
+[submodule "profmem"]
+	path = profmem
+	url = https://github.com/HenrikBengtsson/profmem
 [submodule "ps"]
 	path = ps
 	url = https://github.com/r-lib/ps
+[submodule "purrr"]
+	path = purrr
+	url = https://github.com/tidyverse/purrr
+[submodule "rappdirs"]
+	path = rappdirs
+	url = https://github.com/r-lib/rappdirs
+[submodule "readr"]
+	path = readr
+	url = https://github.com/tidyverse/readr
+[submodule "rex"]
+	path = rex
+	url = https://github.com/kevinushey/rex
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
 [submodule "rprojroot"]
 	path = rprojroot
 	url = https://github.com/r-lib/rprojroot
+[submodule "rstudioapi"]
+	path = rstudioapi
+	url = https://github.com/rstudio/rstudioapi
+[submodule "sass"]
+	path = sass
+	url = https://github.com/rstudio/sass
+[submodule "scales"]
+	path = scales
+	url = https://github.com/r-lib/scales
+[submodule "selectr"]
+	path = selectr
+	url = https://github.com/sjp/selectr
+[submodule "stringi"]
+	path = stringi
+	url = https://github.com/gagolews/stringi
+[submodule "stringr"]
+	path = stringr
+	url = https://github.com/tidyverse/stringr
+[submodule "sys"]
+	path = sys
+	url = https://github.com/jeroen/sys
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+[submodule "tibble"]
+	path = tibble
+	url = https://github.com/tidyverse/tibble
+[submodule "tidyr"]
+	path = tidyr
+	url = https://github.com/tidyverse/tidyr
+[submodule "tidyselect"]
+	path = tidyselect
+	url = https://github.com/r-lib/tidyselect
 [submodule "timechange"]
 	path = timechange
 	url = https://github.com/vspinu/timechange
+[submodule "tinytex"]
+	path = tinytex
+	url = https://github.com/rstudio/tinytex
+[submodule "tzdb"]
+	path = tzdb
+	url = https://github.com/r-lib/tzdb
 [submodule "utf8"]
 	path = utf8
 	url = https://github.com/krlmlr/utf8
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
+[submodule "viridisLite"]
+	path = viridisLite
+	url = https://github.com/sjmgarnier/viridisLite
+[submodule "visNetwork"]
+	path = visNetwork
+	url = https://github.com/datastorm-open/visNetwork
+[submodule "vroom"]
+	path = vroom
+	url = https://github.com/tidyverse/vroom
 [submodule "waldo"]
 	path = waldo
 	url = https://github.com/r-lib/waldo
 [submodule "withr"]
 	path = withr
 	url = https://github.com/r-lib/withr
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
+[submodule "xml2"]
+	path = xml2
+	url = https://github.com/r-lib/xml2
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/vubiostat/r-yaml
+[submodule "zip"]
+	path = zip
+	url = https://github.com/r-lib/zip
