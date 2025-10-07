@@ -5,6 +5,12 @@
 [submodule "DBI"]
 	path = DBI
 	url = https://github.com/r-dbi/DBI
+[submodule "DBItest"]
+	path = DBItest
+	url = https://github.com/r-dbi/DBItest
+[submodule "DiagrammeR"]
+	path = DiagrammeR
+	url = https://github.com/rich-iannone/DiagrammeR
 [submodule "Matrix"]
 	path = Matrix
 	url = https://github.com/cran/Matrix
@@ -14,9 +20,20 @@
 [submodule "RColorBrewer"]
 	path = RColorBrewer
 	url = https://github.com/cran/RColorBrewer
+[submodule "Rcpp"]
+	path = Rcpp
+	url = https://github.com/RcppCore/Rcpp
 [submodule "S7"]
 	path = S7
 	url = https://github.com/RConsortium/S7
+[submodule "adbcdrivermanager"]
+	path = adbcdrivermanager
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcdrivermanager
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	subdir = r
 [submodule "askpass"]
 	path = askpass
 	url = https://github.com/r-lib/askpass
@@ -26,6 +43,12 @@
 [submodule "base64enc"]
 	path = base64enc
 	url = https://github.com/cran/base64enc
+[submodule "bench"]
+	path = bench
+	url = https://github.com/r-lib/bench
+[submodule "bindr"]
+	path = bindr
+	url = https://github.com/krlmlr/bindr
 [submodule "bit"]
 	path = bit
 	url = https://github.com/r-lib/bit
@@ -53,6 +76,21 @@
 [submodule "clipr"]
 	path = clipr
 	url = https://github.com/mdlincoln/clipr
+[submodule "clock"]
+	path = clock
+	url = https://github.com/r-lib/clock
+[submodule "collections"]
+	path = collections
+	url = https://github.com/randy3k/collections
+[submodule "conflicted"]
+	path = conflicted
+	url = https://github.com/r-lib/conflicted
+[submodule "constructive"]
+	path = constructive
+	url = https://github.com/cynkra/constructive
+[submodule "covr"]
+	path = covr
+	url = https://github.com/r-lib/covr
 [submodule "crayon"]
 	path = crayon
 	url = https://github.com/r-lib/crayon
@@ -62,6 +100,12 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
+[submodule "dbplyr"]
+	path = dbplyr
+	url = https://github.com/tidyverse/dbplyr
+[submodule "decor"]
+	path = decor
+	url = https://github.com/r-lib/decor
 [submodule "desc"]
 	path = desc
 	url = https://github.com/r-lib/desc
@@ -74,6 +118,9 @@
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/tidyverse/dplyr
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb-r
 [submodule "evaluate"]
 	path = evaluate
 	url = https://github.com/r-lib/evaluate
@@ -86,12 +133,24 @@
 [submodule "fontawesome"]
 	path = fontawesome
 	url = https://github.com/rstudio/fontawesome
+[submodule "formattable"]
+	path = formattable
+	url = https://github.com/renkun-ken/formattable
 [submodule "fs"]
 	path = fs
 	url = https://github.com/r-lib/fs
 [submodule "generics"]
 	path = generics
 	url = https://github.com/r-lib/generics
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+[submodule "gh"]
+	path = gh
+	url = https://github.com/r-lib/gh
 [submodule "gitcreds"]
 	path = gitcreds
 	url = https://github.com/r-lib/gitcreds
@@ -101,6 +160,9 @@
 [submodule "gtable"]
 	path = gtable
 	url = https://github.com/r-lib/gtable
+[submodule "here"]
+	path = here
+	url = https://github.com/r-lib/here
 [submodule "highr"]
 	path = highr
 	url = https://github.com/yihui/highr
@@ -149,6 +211,9 @@
 [submodule "lifecycle"]
 	path = lifecycle
 	url = https://github.com/r-lib/lifecycle
+[submodule "lobstr"]
+	path = lobstr
+	url = https://github.com/r-lib/lobstr
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
@@ -164,6 +229,10 @@
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
+	subdir = r
+[submodule "nycflights13"]
+	path = nycflights13
+	url = https://github.com/hadley/nycflights13
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/jeroen/openssl
@@ -185,6 +254,12 @@
 [submodule "praise"]
 	path = praise
 	url = https://github.com/gaborcsardi/praise
+[submodule "prettycode"]
+	path = prettycode
+	url = https://github.com/r-lib/prettycode
+[submodule "prettyunits"]
+	path = prettyunits
+	url = https://github.com/r-lib/prettyunits
 [submodule "processx"]
 	path = processx
 	url = https://github.com/r-lib/processx
@@ -218,6 +293,9 @@
 [submodule "rstudioapi"]
 	path = rstudioapi
 	url = https://github.com/rstudio/rstudioapi
+[submodule "rvest"]
+	path = rvest
+	url = https://github.com/tidyverse/rvest
 [submodule "sass"]
 	path = sass
 	url = https://github.com/rstudio/sass
@@ -257,6 +335,9 @@
 [submodule "tzdb"]
 	path = tzdb
 	url = https://github.com/r-lib/tzdb
+[submodule "usethis"]
+	path = usethis
+	url = https://github.com/r-lib/usethis
 [submodule "utf8"]
 	path = utf8
 	url = https://github.com/krlmlr/utf8
@@ -275,6 +356,9 @@
 [submodule "waldo"]
 	path = waldo
 	url = https://github.com/r-lib/waldo
+[submodule "whisker"]
+	path = whisker
+	url = https://github.com/edwindj/whisker
 [submodule "withr"]
 	path = withr
 	url = https://github.com/r-lib/withr
