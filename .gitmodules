@@ -11,15 +11,9 @@
 [submodule "DiagrammeR"]
 	path = DiagrammeR
 	url = https://github.com/rich-iannone/DiagrammeR
-[submodule "Matrix"]
-	path = Matrix
-	url = https://github.com/cran/Matrix
 [submodule "R6"]
 	path = R6
 	url = https://github.com/r-lib/R6
-[submodule "RColorBrewer"]
-	path = RColorBrewer
-	url = https://github.com/cran/RColorBrewer
 [submodule "Rcpp"]
 	path = Rcpp
 	url = https://github.com/RcppCore/Rcpp
@@ -30,6 +24,10 @@
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
 	subdir = r/adbcdrivermanager
+[submodule "adbcsqlite"]
+	path = adbcsqlite
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcsqlite
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
@@ -37,12 +35,6 @@
 [submodule "askpass"]
 	path = askpass
 	url = https://github.com/r-lib/askpass
-[submodule "assertthat"]
-	path = assertthat
-	url = https://github.com/cran/assertthat
-[submodule "base64enc"]
-	path = base64enc
-	url = https://github.com/cran/base64enc
 [submodule "bench"]
 	path = bench
 	url = https://github.com/r-lib/bench
@@ -190,24 +182,15 @@
 [submodule "isoband"]
 	path = isoband
 	url = https://github.com/r-lib/isoband
-[submodule "jquerylib"]
-	path = jquerylib
-	url = https://github.com/cran/jquerylib
 [submodule "jsonlite"]
 	path = jsonlite
 	url = https://github.com/jeroen/jsonlite
 [submodule "knitr"]
 	path = knitr
 	url = https://github.com/yihui/knitr
-[submodule "labeling"]
-	path = labeling
-	url = https://github.com/cran/labeling
 [submodule "lattice"]
 	path = lattice
 	url = https://github.com/deepayan/lattice
-[submodule "lazyeval"]
-	path = lazyeval
-	url = https://github.com/cran/lazyeval
 [submodule "lifecycle"]
 	path = lifecycle
 	url = https://github.com/r-lib/lifecycle
