@@ -8,6 +8,9 @@
 [submodule "bindrcpp"]
 	path = bindrcpp
 	url = https://github.com/krlmlr/bindrcpp
+[submodule "kimisc"]
+	path = kimisc
+	url = https://github.com/krlmlr/kimisc
 [submodule "plogr"]
 	path = plogr
 	url = https://github.com/krlmlr/plogr
