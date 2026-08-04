@@ -8,6 +8,18 @@
 [submodule "bindrcpp"]
 	path = bindrcpp
 	url = https://github.com/krlmlr/bindrcpp
+[submodule "duckdb.1.4.dev"]
+	path = duckdb.1.4.dev
+	url = https://github.com/krlmlr/duckdb-r
+	branch = v1.4-andium-fwd-dev
+[submodule "duckdb.1.5.dev"]
+	path = duckdb.1.5.dev
+	url = https://github.com/krlmlr/duckdb-r
+	branch = v1.5-variegata-fwd-dev
+[submodule "duckdb.dev"]
+	path = duckdb.dev
+	url = https://github.com/krlmlr/duckdb-r
+	branch = main-fwd-dev
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
