@@ -11,15 +11,15 @@
 [submodule "duckdb.1.4.dev"]
 	path = duckdb.1.4.dev
 	url = https://github.com/krlmlr/duckdb-r
-	branch = v1.4-andium-fwd-dev
+	branch = v1.4-andium-fwd-green
 [submodule "duckdb.1.5.dev"]
 	path = duckdb.1.5.dev
 	url = https://github.com/krlmlr/duckdb-r
-	branch = v1.5-variegata-fwd-dev
+	branch = v1.5-variegata-fwd-green
 [submodule "duckdb.dev"]
 	path = duckdb.dev
 	url = https://github.com/krlmlr/duckdb-r
-	branch = main-fwd-dev
+	branch = main-fwd-green
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
