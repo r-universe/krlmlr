@@ -8,6 +8,10 @@
 [submodule "bindrcpp"]
 	path = bindrcpp
 	url = https://github.com/krlmlr/bindrcpp
+[submodule "cpp11"]
+	path = cpp11
+	url = https://github.com/krlmlr/cpp11
+	branch = fork
 [submodule "duckdb.1.4.dev"]
 	path = duckdb.1.4.dev
 	url = https://github.com/krlmlr/duckdb-r
